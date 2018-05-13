@@ -1,4 +1,4 @@
-# icons_dashboard
+# Icons for a dashboard
 Several svg icons I made for a private work.
 
 #### Overview:
