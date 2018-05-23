@@ -13,15 +13,17 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 330.731 330.731"
-   style="enable-background:new 0 0 330.731 330.731;"
+   viewBox="0 0 300.00001 300.00001"
    xml:space="preserve"
    sodipodi:docname="10_log_seriale.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   width="300"
+   height="300"><metadata
    id="metadata41"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs39">
+
 
 </defs><sodipodi:namedview
    pagecolor="#ffffff"
@@ -36,9 +38,9 @@
    inkscape:window-height="667"
    id="namedview37"
    showgrid="false"
-   inkscape:zoom="0.71357087"
-   inkscape:cx="309.80731"
-   inkscape:cy="122.5534"
+   inkscape:zoom="0.62158713"
+   inkscape:cx="-16.514161"
+   inkscape:cy="158.51615"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -60,8 +62,9 @@
 
 
 <g
-   id="g909"
-   transform="matrix(0.93519071,0,0,0.93519071,10.71735,13.896575)"><g
+   id="g151"
+   transform="translate(0,2.9999892)"><g
+     transform="matrix(0.8625701,0,0,0.8517579,7.3607895,7.7860395)"
      id="g887"><path
        style="fill:#fdfdfd;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
@@ -146,14 +149,15 @@
          id="path58"
          d="m 27.2,92.7 c -2.3,0 -4.2,1.9 -4.2,4.2 0,2.3 1.9,4.1 4.2,4.1 2.3,0 4.2,-1.9 4.2,-4.1 0,-2.3 -1.9,-4.2 -4.2,-4.2 z"
          class="st1" /></g></g><text
+     transform="scale(0.99008538,1.0100139)"
      id="text945"
-     y="303.33636"
-     x="18.248903"
-     style="font-style:normal;font-weight:normal;font-size:128.48391724px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.21209788;stroke-opacity:1"
+     y="265.92383"
+     x="23.223881"
+     style="font-style:normal;font-weight:normal;font-size:112.03156281px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80078888;stroke-opacity:1"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#000000;stroke-width:3.21209788;stroke-opacity:1"
-       y="303.33636"
-       x="18.248903"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#000000;stroke-width:2.80078888;stroke-opacity:1"
+       y="265.92383"
+       x="23.223881"
        id="tspan943"
        sodipodi:role="line">LOG</tspan></text>
 </g>

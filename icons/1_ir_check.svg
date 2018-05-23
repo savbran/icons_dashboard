@@ -13,14 +13,15 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 512.001 512.001"
-   style="enable-background:new 0 0 512.001 512.001;"
+   viewBox="0 0 300.00001 300.00001"
    xml:space="preserve"
    sodipodi:docname="1_ir_check.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   width="300"
+   height="300"><metadata
    id="metadata63"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs61" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -34,9 +35,9 @@
    inkscape:window-height="720"
    id="namedview59"
    showgrid="false"
-   inkscape:zoom="0.46093662"
-   inkscape:cx="-189.83087"
-   inkscape:cy="256.00049"
+   inkscape:zoom="0.87565368"
+   inkscape:cx="132.227"
+   inkscape:cy="53.516609"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
@@ -44,7 +45,7 @@
 <g
    id="g26"
    style="fill:#000000;fill-opacity:1"
-   transform="matrix(0.87926413,0,0,0.87926413,30.908871,30.90836)">
+   transform="matrix(0.53143708,0,0,0.54687411,13.952108,9.9999099)">
 	<g
    id="g24"
    style="fill:#000000;fill-opacity:1">
@@ -119,48 +120,63 @@
 	</g>
 </g>
 <g
-   id="g28">
+   id="g28"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g30">
+   id="g30"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g32">
+   id="g32"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g34">
+   id="g34"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g36">
+   id="g36"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g38">
+   id="g38"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g40">
+   id="g40"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g42">
+   id="g42"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g44">
+   id="g44"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g46">
+   id="g46"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g48">
+   id="g48"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g50">
+   id="g50"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g52">
+   id="g52"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g54">
+   id="g54"
+   transform="translate(0,-212.00098)">
 </g>
 <g
-   id="g56">
+   id="g56"
+   transform="translate(0,-212.00098)">
 </g>
 </svg>

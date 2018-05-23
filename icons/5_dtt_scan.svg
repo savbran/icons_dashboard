@@ -13,11 +13,12 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 199.213 199.213"
-   style="enable-background:new 0 0 199.213 199.213;"
+   viewBox="0 0 300 300"
    xml:space="preserve"
    sodipodi:docname="5_dtt_scan.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   width="300"
+   height="300"><metadata
    id="metadata39"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -35,9 +36,9 @@
    inkscape:window-height="669"
    id="namedview35"
    showgrid="false"
-   inkscape:zoom="1.1846617"
-   inkscape:cx="-88.76932"
-   inkscape:cy="77.290938"
+   inkscape:zoom="0.64135054"
+   inkscape:cx="-27.00304"
+   inkscape:cy="251.71546"
    inkscape:window-x="151"
    inkscape:window-y="20"
    inkscape:window-maximized="0"
@@ -45,67 +46,86 @@
    inkscape:snap-bbox="true" />
 
 <g
-   id="g4">
+   id="g4"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g6">
+   id="g6"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g8">
+   id="g8"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g10">
+   id="g10"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g12">
+   id="g12"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g14">
+   id="g14"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g16">
+   id="g16"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g18">
+   id="g18"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g20">
+   id="g20"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g22">
+   id="g22"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g24">
+   id="g24"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g26">
+   id="g26"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g28">
+   id="g28"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g30">
+   id="g30"
+   transform="translate(0,100.787)">
 </g>
 <g
-   id="g32">
+   id="g32"
+   transform="translate(0,100.787)">
 </g>
-<path
-   d="M 169.80743,9.9486496 H 29.404813 c -5.868108,0 -10.64212,5.2449274 -10.64212,11.6927394 V 125.23001 c 0,6.44689 4.774012,11.69181 10.64212,11.69181 h 49.042052 l -1.361107,19.11609 H 60.005777 c -2.241734,0 -4.058158,1.99559 -4.058158,4.45845 0,2.46285 1.816424,4.45845 4.058158,4.45845 h 20.832975 37.534758 0.0161 20.8159 c 2.24173,0 4.05815,-1.9956 4.05815,-4.45845 0,-2.46286 -1.81642,-4.45845 -4.05815,-4.45845 h -17.07909 l -1.36111,-19.11609 h 49.04206 c 5.86811,0 10.64293,-5.24492 10.64293,-11.69181 V 21.641389 c 0,-6.447812 -4.77482,-11.6927394 -10.64293,-11.6927394 z M 31.631929,77.64313 h 49.185719 l 7.660186,21.96681 c 0.604664,1.73523 2.118361,2.8641 3.787875,2.8641 0.107071,0 0.215091,-0.005 0.323029,-0.0143 1.794521,-0.15694 3.279809,-1.59344 3.64991,-3.528423 l 8.466152,-44.29206 6.75116,20.088901 c 0.58844,1.751277 2.10779,2.914932 3.80655,2.914932 h 52.31781 v 32.22658 H 31.631929 Z M 118.09024,68.726228 107.43675,37.02484 c -0.62658,-1.863635 -2.30098,-3.05315 -4.10442,-2.902454 -1.80425,0.145345 -3.30253,1.584534 -3.674266,3.530204 L 91.127003,82.284384 87.398355,71.590337 C 86.796942,69.865808 85.289738,68.727119 83.608853,68.727119 H 31.631929 V 25.182295 H 167.58032 v 43.543933 z"
-   id="path2"
-   inkscape:connector-curvature="0"
+<g
+   id="g27"
+   transform="matrix(1.5620178,0,0,1.5226119,-5.587124,-5.1479299)"><path
+   style="fill:#69c3ff;fill-opacity:1;stroke-width:0.85072023"
    sodipodi:nodetypes="sssssccssscccsssccsssscccsccccscccccccccccscccc"
-   style="fill:#69c3ff;fill-opacity:1;stroke-width:0.85072023" /><text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.24710846px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#005d9b;fill-opacity:1;stroke:#000204;stroke-width:2.50768995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   x="3.6422589"
-   y="188.35977"
+   inkscape:connector-curvature="0"
+   id="path2"
+   d="M 169.80743,9.9486496 H 29.404813 c -5.868108,0 -10.64212,5.2449274 -10.64212,11.6927394 V 125.23001 c 0,6.44689 4.774012,11.69181 10.64212,11.69181 h 49.042052 l -1.361107,19.11609 H 60.005777 c -2.241734,0 -4.058158,1.99559 -4.058158,4.45845 0,2.46285 1.816424,4.45845 4.058158,4.45845 h 20.832975 37.534758 0.0161 20.8159 c 2.24173,0 4.05815,-1.9956 4.05815,-4.45845 0,-2.46286 -1.81642,-4.45845 -4.05815,-4.45845 h -17.07909 l -1.36111,-19.11609 h 49.04206 c 5.86811,0 10.64293,-5.24492 10.64293,-11.69181 V 21.641389 c 0,-6.447812 -4.77482,-11.6927394 -10.64293,-11.6927394 z M 31.631929,77.64313 h 49.185719 l 7.660186,21.96681 c 0.604664,1.73523 2.118361,2.8641 3.787875,2.8641 0.107071,0 0.215091,-0.005 0.323029,-0.0143 1.794521,-0.15694 3.279809,-1.59344 3.64991,-3.528423 l 8.466152,-44.29206 6.75116,20.088901 c 0.58844,1.751277 2.10779,2.914932 3.80655,2.914932 h 52.31781 v 32.22658 H 31.631929 Z M 118.09024,68.726228 107.43675,37.02484 c -0.62658,-1.863635 -2.30098,-3.05315 -4.10442,-2.902454 -1.80425,0.145345 -3.30253,1.584534 -3.674266,3.530204 L 91.127003,82.284384 87.398355,71.590337 C 86.796942,69.865808 85.289738,68.727119 83.608853,68.727119 H 31.631929 V 25.182295 H 167.58032 v 43.543933 z" /><text
+   transform="scale(0.97812033,1.0223691)"
    id="text3746"
-   transform="scale(0.97812033,1.0223691)"><tspan
-     sodipodi:role="line"
-     id="tspan3744"
-     x="3.6422589"
+   y="188.35977"
+   x="3.6422589"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.24710846px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#005d9b;fill-opacity:1;stroke:#000204;stroke-width:2.50768995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';opacity:1;fill:#005d9b;fill-opacity:1;stroke:#000204;stroke-width:2.50768995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y="188.35977"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';opacity:1;fill:#005d9b;fill-opacity:1;stroke:#000204;stroke-width:2.50768995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">DTT</tspan></text>
+     x="3.6422589"
+     id="tspan3744"
+     sodipodi:role="line">DTT</tspan></text>
+
+</g>
 
 
 
